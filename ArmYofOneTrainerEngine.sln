@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmYofOneTrainerEngine", "ArmYofOneTrainerEngine\ArmYofOneTrainerEngine.csproj", "{61A0A7AE-0B73-4DC4-8633-40AC0D5D404B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Release = Debug|Release
+		Release|Any CPU = Release|Any CPU
+		Release|Release = Release|Release
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61A0A7AE-0B73-4DC4-8633-40AC0D5D404B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A0A7AE-0B73-4DC4-8633-40AC0D5D404B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A0A7AE-0B73-4DC4-8633-40AC0D5D404B}.Debug|Release.ActiveCfg = Debug|Any CPU
+		{61A0A7AE-0B73-4DC4-8633-40AC0D5D404B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A0A7AE-0B73-4DC4-8633-40AC0D5D404B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61A0A7AE-0B73-4DC4-8633-40AC0D5D404B}.Release|Release.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA8E95C7-E556-4C87-B45F-DB543D295473}
+	EndGlobalSection
+EndGlobal
